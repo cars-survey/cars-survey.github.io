@@ -9,5 +9,8 @@
 - Justus Neumann, Max Planck Institute for Astronomy
 - Timothy Davies, Cardiff University 
 - Scott Croom, University of Sydney
+- Mirko Krumpe, Leibniz Institute of Astrophysics
+- Tanya Urrutia, Leibniz Institute of Astrophysics
+- Roisin Brogan, Leibniz Institute of Astrophysics
 
 
