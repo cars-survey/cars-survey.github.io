@@ -10,4 +10,4 @@ relative_links:
 include:
   - README.md
   - members.md
-theme: Minimal
+theme: jekyll-theme-minimal
