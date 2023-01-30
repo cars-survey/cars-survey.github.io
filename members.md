@@ -5,6 +5,9 @@
 - Francoise Combes, Observatoire de Paris
 - Grant Tremblay, Harvard
 - Miguel Perez-Torres, Instituto de Astrofísica de Andalucía
+- Mainak Singha, University of Manitoba
+- Justus Neumann, Max Planck Institute for Astronomy
+- Timothy Davies, Cardiff University 
 - 
 
 
