@@ -8,6 +8,6 @@
 - Mainak Singha, University of Manitoba
 - Justus Neumann, Max Planck Institute for Astronomy
 - Timothy Davies, Cardiff University 
-- 
+- Scott Croom, University of Sydney
 
 
