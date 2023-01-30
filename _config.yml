@@ -1,3 +1,7 @@
+
+title: The Close AGN Reference Survey
+description: The Close AGN Reference Survey
+url: "https://cars-survey.github.io"
 plugins:
   - jekyll-relative-links
 relative_links:
