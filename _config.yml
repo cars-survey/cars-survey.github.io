@@ -4,7 +4,7 @@ description: CARS is a survey of nearby (z<0.05) unobscured AGN. 41 galaxies wer
   by observations in the radio, x-ray, and submm bands, amongst others. Our goal is to better understand how energy 
   from the accreting central black hole impacts the evolution of galaxies. This page outlines our dataset, papers to 
   date, and members of the collaboration. You can also find links to access our public data release.
-logo: /images/cars_blue.png?raw=true
+logo: "/images/cars_blue.png?raw=true"
 url: "https://cars-survey.github.io"
 plugins:
   - jekyll-relative-links
