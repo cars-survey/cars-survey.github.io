@@ -1,8 +1,8 @@
 
-title: The Close AGN Reference Survey (CARS)
+title: The Close AGN Reference Survey
 description: CARS is a survey of nearby (z<0.05) unobscured AGN. 41 galaxies were observed with MUSE and complemented
   by observations in the radio, x-ray, and submm bands, amongst others. Our goal is to better understand how energy 
-  from the accreting central black hole impacts the evolution of galaxies. 
+  from the accreting central black hole impacts the evolution of galaxies.
 logo: "/images/cars_blue.png?raw=true"
 url: "https://cars-survey.github.io"
 plugins:
