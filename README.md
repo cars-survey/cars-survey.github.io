@@ -1,7 +1,7 @@
 ### Welcome to the Close AGN Reference Survey homepage!
 
 - You can find an up-to-date list of [our papers on ADS](https://ui.adsabs.harvard.edu/search/q=%20abs%3A%22close%20agn%20reference%20survey%22&sort=date%20desc%2C%20bibcode%20desc&p_=0)
-- Our first Data Release is hosted by the [Leibniz Institute for Astronomy](https://cars.aip.de)
+- Our first Data Release is hosted by the [Leibniz Institute for Astrophysics](https://cars.aip.de)
 - Here is a list of our [team members](members.md)
 - This page is maintained by [Rebecca McElroy](https://rebeccamcelroy.github.io)
 
