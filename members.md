@@ -17,7 +17,7 @@
 - Brent Groves, University of Western Australia
 - Max Gaspari, Princeton University
 - Merry Powell, Stanford University
-- Julia Scharwaechter, Gemini Observatories
+- Julia Scharwaechter, Gemini Observatory/NSF's NOIRLab
 - Chris O'Dea, University of Manitoba
 
 
