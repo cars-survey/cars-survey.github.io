@@ -17,6 +17,8 @@
 - Brent Groves, University of Western Australia
 - Max Gaspari, Princeton University
 - Merry Powell, Stanford University
+- Julia Scharwaechter, Gemini Observatories
+- Chris O'Dea, University of Manitoba
 
 
 
