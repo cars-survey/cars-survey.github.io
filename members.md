@@ -15,7 +15,7 @@
 - Vardha Bennert, California Polytechnic State University
 - Nico Winkel, Max Planck Institute for Astronomy
 - Brent Groves, University of Western Australia
-- Max Gaspari, Princeton University
+- Massimo (Max) Gaspari, University of Modena + Princeton University
 - Merry Powell, Stanford University
 - Julia Scharwaechter, Gemini Observatory/NSF's NOIRLab
 - Chris O'Dea, University of Manitoba
