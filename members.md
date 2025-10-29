@@ -1,6 +1,6 @@
 ### CARS team members
 
-- [Rebecca McElroy](https://rebeccamcelroy.github.io), University of Queensland 
+- [Rebecca McElroy](https://rebeccamcelroy.github.io), University of Southern Queensland 
 - Bernd Husemann, EUMESAT
 - Francoise Combes, Observatoire de Paris
 - Grant Tremblay, Harvard University
@@ -19,6 +19,10 @@
 - Merry Powell, Stanford University
 - Julia Scharwaechter, Gemini Observatory/NSF's NOIRLab
 - Chris O'Dea, University of Manitoba
+- Osase Omoruyi, Harvard University
+- Thomas Dunn, University of Queensland
+- Joshua Bardwell, University of Southern Queensland
+- Amirnezam Amiri, University of Arkansas
 
 
 
